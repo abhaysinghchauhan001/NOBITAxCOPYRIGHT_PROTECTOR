@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐍𝐎𝐁𝐈𝐓𝐀+𝐑𝐄𝐏𝐎+🖤+🥀"></b></h3>
 </p>
-<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=350&lines=𝐍𝐎𝐁𝐈𝐓𝐀+𝐂𝐎𝐏𝐘𝐑𝐈𝐆𝐇𝐓+𝐏𝐑𝐎𝐓𝐄𝐂𝐓𝐎𝐑+𝐁𝐎𝐓"></b></h1>
+<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=350&lines=𝐂𝐎𝐏𝐘𝐑𝐈𝐆𝐇𝐓+𝐏𝐑𝐎𝐓𝐄𝐂𝐓𝐎𝐑+𝐁𝐎𝐓"></b></h1>
 
 <p align="center"><a href="t.me/ll_YOURR_NOBITA_ll"><img src="https://files.catbox.moe/7qyorb.jpg" width="600"></a></p>
 
