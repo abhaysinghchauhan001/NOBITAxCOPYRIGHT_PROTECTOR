@@ -1,6 +1,6 @@
-<h3><img  style="align-item" :"center" src="https://telegra.ph/file/fbd55ee956abef2a74e15.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐍𝐎𝐁𝐈𝐓𝐀+𝐑𝐄𝐏𝐎+🖤+🥀"></b></h3>
+<img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐍𝐎𝐁𝐈𝐓𝐀+𝐑𝐄𝐏𝐎+🖤+🥀"></b></h3>
 </p>
-<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=350&lines=𝙲𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝+𝙿𝚛𝚘𝚝𝚎𝚌𝚝𝚘r+ʙᴏᴛ"></b></h1>
+<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=350&lines=𝐍𝐎𝐁𝐈𝐓𝐀+𝐂𝐎𝐏𝐘𝐑𝐈𝐆𝐇𝐓+𝐏𝐑𝐎𝐓𝐄𝐂𝐓𝐎𝐑+𝐁𝐎𝐓"></b></h1>
 
 <p align="center"><a href="t.me/ll_YOURR_NOBITA_ll"><img src="https://files.catbox.moe/7qyorb.jpg" width="600"></a></p>
 
