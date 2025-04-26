@@ -66,7 +66,7 @@ def size_formatter(bytes: int) -> str:
 @app.on_message(filters.command("start"))
 async def start_command_handler(_, msg):
     buttons = [
-        [InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ", url=f"https://t.me/NOBITA_COPYRIGHT_PROTECTOR_BOT?startgroup=true")],
+        [InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ", url=f"https://t.me/COPYRIGHT_PROTECTORS_BOT?startgroup=true")],
         [InlineKeyboardButton("• ʜᴀɴᴅʟᴇʀ •", callback_data="vip_back")]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
